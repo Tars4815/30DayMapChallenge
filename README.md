@@ -5,5 +5,5 @@ A repository with a collection of personal contributions to the #30DayMapChallen
 
 ## Themes and contributions day by day
 
-# Day 1: **Points**
+### Day 1: **Points**
 *A map with points.*
