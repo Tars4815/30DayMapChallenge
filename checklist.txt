@@ -1,0 +1,59 @@
+Day 1: Points 01-11-2021 - [X]
+
+Day 2: Lines 02-11-2021 - [X]
+
+Day 3: Polygons 03-11-2021 - [ ]
+
+Day 4: Hexagons 04-11-2021 - [ ]
+
+Day 5: Data challenge 1: OpenStreetMap 05-11-2021 - [ ]
+
+Day 6: Red 06-11-2021 - [ ]
+
+Day 7: Green 07-11-2021 - [ ]
+
+Day 8: Blue 08-11-2021 - [ ]
+
+Day 9: Monochrome 09-11-2021 - [X]
+
+Day 10: Raster 10-11-2021 - [X]
+
+Day 11: 3D 11-11-2021 - [ ]
+
+Day 12: Population 12-11-2021 - [ ]
+
+Day 13: Data challenge 2: Natural Earth 13-11-2021 - [ ]
+
+Day 14: Map with a new tool 14-11-2021 - [ ]
+
+Day 15: Map made without using a computer 15-11-2021 - [ ]
+
+Day 16: Urban/rural 16-11-2021 - [ ]
+
+Day 17: Land 17-11-2021 - [ ]
+
+Day 18: Water 18-11-2021 - [ ]
+
+Day 19: Island(s) 19-11-2021 - [ ]
+
+Day 20: Movement - 20-11-2021 [ ]
+
+Day 21: Elevation 21-11-2021 - [ ]
+
+Day 22: Boundaries 22-11-2021 - [ ]
+
+Day 23: Data challenge 3: GHSL 23-11-2021 - [ ]
+
+Day 24: Historical map 24-11-2021 - [ ]
+
+Day 25: Interactive map 25-11-2021 - [ ]
+
+Day 26: Choropleth map 26-11-2021 - [ ]
+
+Day 27: Heatmap 27-11-2021 - [ ]
+
+Day 28: The Earth is not flat 28-11-2021 - [ ]
+
+Day 29: NULL 29-11-2021 - [ ]
+
+Day 30: Metamapping day 30-11-2021 - [ ]
