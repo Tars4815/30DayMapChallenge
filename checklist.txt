@@ -4,7 +4,7 @@ Day 2: Lines 02-11-2021 - [X]
 
 Day 3: Polygons 03-11-2021 - [ ]
 
-Day 4: Hexagons 04-11-2021 - [ ]
+Day 4: Hexagons 04-11-2021 - [X]
 
 Day 5: Data challenge 1: OpenStreetMap 05-11-2021 - [ ]
 
