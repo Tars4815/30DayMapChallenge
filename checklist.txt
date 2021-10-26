@@ -10,7 +10,7 @@ Day 5: Data challenge 1: OpenStreetMap 05-11-2021 - [ ]
 
 Day 6: Red 06-11-2021 - [X]
 
-Day 7: Green 07-11-2021 - [ ]
+Day 7: Green 07-11-2021 - [X]
 
 Day 8: Blue 08-11-2021 - [X]
 
