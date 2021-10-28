@@ -2,7 +2,7 @@ Day 1: Points 01-11-2021 - [X]
 
 Day 2: Lines 02-11-2021 - [X]
 
-Day 3: Polygons 03-11-2021 - [ ]
+Day 3: Polygons 03-11-2021 - [X]
 
 Day 4: Hexagons 04-11-2021 - [X]
 
