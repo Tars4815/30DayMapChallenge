@@ -8,7 +8,9 @@ A repository with a collection of personal contributions to the #30DayMapChallen
 ### Day 1: Points
 *A map with points.*
 
-![Map submission for Day 1 - Points](https://github.com/Tars4815/30DayMapChallenge/blob/d728750b235cc3dd5797374719b93491f798fbb9/images/Day%201%20-%20Points.png)
+Traffic lights in Manhattan, New York (US). Data downloaded from OSM using OverpassTurbo and processed and visualized with QGIS.
+
+![Map submission for Day 1 - Points](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%201%20-%20Points.png)
 *[Original Tweet](https://twitter.com/fede_gaspari/status/1455150127958528000)*
 
 ### Day 2: Lines
