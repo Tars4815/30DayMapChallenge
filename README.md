@@ -8,7 +8,7 @@ A repository with a collection of personal contributions to the #30DayMapChallen
 ### Day 1: Points
 *A map with points.*
 
-Map will be available on 01-11-2021.
+*[Original Tweet](https://twitter.com/fede_gaspari/status/1455150127958528000)*
 
 ### Day 2: Lines
 *A map with lines.*
