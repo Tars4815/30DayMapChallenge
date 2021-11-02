@@ -36,7 +36,7 @@ Day 18: Water 18-11-2021 - [ ]
 
 Day 19: Island(s) 19-11-2021 - [ ]
 
-Day 20: Movement - 20-11-2021 [ ]
+Day 20: Movement - 20-11-2021 [X]
 
 Day 21: Elevation 21-11-2021 - [X]
 
