@@ -16,7 +16,12 @@ Traffic lights in Manhattan, New York (US). Data downloaded from OSM using Overp
 ### Day 2: Lines
 *A map with lines.*
 
-Map will be available on 02-11-2021.
+Terrain elevations of Northern Piedmont (Italy) visualized using Joy Division style based on @im_hereasia and @geomenke tutorial.
+
+[Original inspiration](https://twitter.com/imhere_asia/status/1023055838787690496)
+
+![Map submission for Day 2 - Lines](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%202%20-%20Lines.png)
+*[Original Tweet](//)*
 
 ### Day 3: Polygons
 *A map with polygons*
