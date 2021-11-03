@@ -30,7 +30,7 @@ Concentration of noir movies' narrative locations based on WikiData information.
 )
 
 ![Map submission for Day 2 - Polygons](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%203%20-%20Poligoni.png)
-*[Original Tweet](//)*
+*[Original Tweet](https://twitter.com/fede_gaspari/status/1455874905531039748)*
 
 ### Day 4: Hexagons
 *A map with hexagons*
