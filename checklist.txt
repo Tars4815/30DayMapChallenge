@@ -46,7 +46,7 @@ Day 23: Data challenge 3: GHSL 23-11-2021 - [ ]
 
 Day 24: Historical map 24-11-2021 - [ ]
 
-Day 25: Interactive map 25-11-2021 - [ ]
+Day 25: Interactive map 25-11-2021 - [X]
 
 Day 26: Choropleth map 26-11-2021 - [ ]
 
