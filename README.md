@@ -26,7 +26,11 @@ Terrain elevations of Northern Piedmont (Italy) visualized using Joy Division st
 ### Day 3: Polygons
 *A map with polygons*
 
-Map will be available on 03-11-2021.
+Concentration of noir movies' narrative locations based on WikiData information. [WikiData query](https://w.wiki/4JBW
+)
+
+![Map submission for Day 2 - Polygons](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%203%20-%20Poligoni.png)
+*[Original Tweet](//)*
 
 ### Day 4: Hexagons
 *A map with hexagons*
