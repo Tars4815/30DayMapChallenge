@@ -21,7 +21,7 @@ Terrain elevations of Northern Piedmont (Italy) visualized using Joy Division st
 [Original inspiration](https://twitter.com/imhere_asia/status/1023055838787690496)
 
 ![Map submission for Day 2 - Lines](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%202%20-%20Lines.png)
-*[Original Tweet](//)*
+*[Original Tweet](https://twitter.com/fede_gaspari/status/1455512514658123776)*
 
 ### Day 3: Polygons
 *A map with polygons*
