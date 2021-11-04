@@ -38,7 +38,7 @@ Concentration of noir movies' narrative locations based on WikiData information.
 Playing a bit with traffic signs data downloaded from Mapillary services and visualised using QGIS and Inkscape.
 
 ![Map submission for Day 3 - Hexagons](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%204%20-%20Hexagons.png)
-*[Original Tweet](//)*
+*[Original Tweet](https://twitter.com/fede_gaspari/status/1456237292125818880)*
 
 ### Day 5: Data challenge 1: OpenStreetMap
 *Use OSM to map something that is interesting to you.*
