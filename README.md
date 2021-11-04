@@ -29,13 +29,16 @@ Terrain elevations of Northern Piedmont (Italy) visualized using Joy Division st
 Concentration of noir movies' narrative locations based on WikiData information. [WikiData query](https://w.wiki/4JBW
 )
 
-![Map submission for Day 2 - Polygons](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%203%20-%20Poligoni.png)
+![Map submission for Day 3 - Polygons](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%203%20-%20Poligoni.png)
 *[Original Tweet](https://twitter.com/fede_gaspari/status/1455874905531039748)*
 
 ### Day 4: Hexagons
 *A map with hexagons*
 
-Map will be available on 04-11-2021.
+Playing a bit with traffic signs data downloaded from Mapillary services and visualised using QGIS and Inkscape.
+
+![Map submission for Day 3 - Hexagons](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%204%20-%20Hexagons.png)
+*[Original Tweet](//)*
 
 ### Day 5: Data challenge 1: OpenStreetMap
 *Use OSM to map something that is interesting to you.*
