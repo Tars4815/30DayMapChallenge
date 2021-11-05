@@ -43,7 +43,10 @@ Playing a bit with traffic signs data downloaded from Mapillary services and vis
 ### Day 5: Data challenge 1: OpenStreetMap
 *Use OSM to map something that is interesting to you.*
 
-Map will be available on 05-11-2021.
+3D (false)view of the streets and buildings of Rome with roads (primary, secondary, tertiary and residential ones) and buildings downloaded using QuickOSM. Composition made with QGIS with details added in Inkscape. Final 3D rendering made with Aerialoid and based on the great tutorial by Alasdair Rae ([Arterial Cities Tutorial](https://www.statsmapsnpix.com/2021/06/arterial-cities.html)).
+
+![Map submission for Day 5 - Data Challenge 1: OpenStreetMap](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%205%20-%20OSM Data Challenge.png)
+*[Original Tweet](https://twitter.com/fede_gaspari/status/1456599678103871496)*
 
 ### Day 6: Red
 *A map with the red colour or a map about something red.*
