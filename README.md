@@ -61,7 +61,7 @@ Portion of red in national flags around the world. Data retrieved from [Wikipedi
 
 NDVI calculated in different seasons for the municipality of Piacenza (Italy) using Sentinel 2 imagery and Geoportale Emilia Romagna data. Processed in QGIS with a little help of Inkscape for the visualisation. GIF made using GIMP.
 
-![Map submission for Day 6 - Red](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%206%20-%20Green.gif)
+![Map submission for Day 6 - Red](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%207%20-%20Green.gif)
 *[Original Tweet](//)*
 
 ### Day 8: Blue
