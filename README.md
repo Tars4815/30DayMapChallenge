@@ -59,7 +59,10 @@ Portion of red in national flags around the world. Data retrieved from [Wikipedi
 ### Day 7: Green
 *A map with the green colour or a map about something green.*
 
-Map will be available on 07-11-2021.
+NDVI calculated in different seasons for the municipality of Piacenza (Italy) using Sentinel 2 imagery and Geoportale Emilia Romagna data. Processed in QGIS with a little help of Inkscape for the visualisation. GIF made using GIMP.
+
+![Map submission for Day 6 - Red](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%206%20-%20Green.gif)
+*[Original Tweet](//)*
 
 ### Day 8: Blue
 *A map with the blue colour or a map about something blue.*
