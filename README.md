@@ -37,7 +37,7 @@ Concentration of noir movies' narrative locations based on WikiData information.
 
 Playing a bit with traffic signs data downloaded from Mapillary services and visualised using QGIS and Inkscape.
 
-![Map submission for Day 3 - Hexagons](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%204%20-%20Hexagons.png)
+![Map submission for Day 4 - Hexagons](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%204%20-%20Hexagons.png)
 *[Original Tweet](https://twitter.com/fede_gaspari/status/1456237292125818880)*
 
 ### Day 5: Data challenge 1: OpenStreetMap
@@ -51,7 +51,10 @@ Playing a bit with traffic signs data downloaded from Mapillary services and vis
 ### Day 6: Red
 *A map with the red colour or a map about something red.*
 
-Map will be available on 06-11-2021.
+Portion of red in national flags around the world. Data retrieved from [Wikipedia](https://en.wikipedia.org/wiki/List_of_flags_by_color_combination) and [Infocaptor](https://www.infocaptor.com/color-and-pattern-analysis-on-flags-of-countries-simple-visualization-but-interesting-data), processed with QGIS and MATLAB.
+
+![Map submission for Day 6 - Red](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%206%20-%20Red.png)
+*[Original Tweet](https://twitter.com/fede_gaspari/status/1456962068670660615)*
 
 ### Day 7: Green
 *A map with the green colour or a map about something green.*
