@@ -80,7 +80,7 @@ Inspired by work done by @tjukanov with soccer players at the 2021 European Cham
 Monochrome map of my hometown area by Lake Maggiore and Orta based on the [hachure style by Robin Hawkes](https://robinhawkes.com/blog/qgis-monochrome-hachures/). Data from OpenStreetMap processed and visualized on QGIS environment.
 
 ![Map submission for Day 9 - Monochrome](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%209%20-%20Monochrome.png)
-*[Original Tweet](//)*
+*[Original Tweet](https://twitter.com/fede_gaspari/status/1458049233563570177)*
 
 ### Day 10: Raster
 *Nothing stops you from doing almost all of the maps with raster data. But this day is dedicated to those lovely pixels.*
