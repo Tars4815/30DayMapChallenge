@@ -61,18 +61,26 @@ Portion of red in national flags around the world. Data retrieved from [Wikipedi
 
 NDVI calculated in different seasons for the municipality of Piacenza (Italy) using Sentinel 2 imagery and Geoportale Emilia Romagna data. Processed in QGIS with a little help of Inkscape for the visualisation. GIF made using GIMP.
 
-![Map submission for Day 6 - Red](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%207%20-%20Green.gif)
-*[Original Tweet](//)*
+![Map submission for Day 7 - Green](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%207%20-%20Green.gif)
+*[Original Tweet](https://twitter.com/fede_gaspari/status/1457292858193588224)*
 
 ### Day 8: Blue
 *A map with the blue colour or a map about something blue.*
 
-Map will be available on 08-11-2021.
+Map of the birth places of Italian volleyball and soccer players who won the 2021 European Championship. Data source: Wikidata ([Soccer players](https://w.wiki/4FNY) - [Volleyball women team](https://w.wiki/4FN3) - [Volleyball men team](https://w.wiki/4FN9). Tools: Wikidata Query Service, QGIS, kepler.gl, Inkscape.
+Inspired by work done by @tjukanov with soccer players at the 2021 European Championship.a
+
+
+![Map submission for Day 8 - Blue](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%208%20-%20Blue.png)
+*[Original Tweet](https://twitter.com/fede_gaspari/status/1457686842849906695)*
 
 ### Day 9: Monochrome
 *A monochromic image is composed of one color (or values of one color). So for example black and white maps are valid here.*
 
-Map will be available on 09-11-2021.
+Monochrome map of my hometown area by Lake Maggiore and Orta based on the [hachure style by Robin Hawkes](https://robinhawkes.com/blog/qgis-monochrome-hachures/). Data from OpenStreetMap processed and visualized on QGIS environment.
+
+![Map submission for Day 9 - Monochrome](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%209%20-%20Monochrome.png)
+*[Original Tweet](//)*
 
 ### Day 10: Raster
 *Nothing stops you from doing almost all of the maps with raster data. But this day is dedicated to those lovely pixels.*
