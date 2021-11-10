@@ -18,9 +18,9 @@ Day 9: Monochrome 09-11-2021 - [X]
 
 Day 10: Raster 10-11-2021 - [X]
 
-Day 11: 3D 11-11-2021 - [ ]
+Day 11: 3D 11-11-2021 - [X]
 
-Day 12: Population 12-11-2021 - [ ]
+Day 12: Population 12-11-2021 - [X]
 
 Day 13: Data challenge 2: Natural Earth 13-11-2021 - [ ]
 
@@ -28,7 +28,7 @@ Day 14: Map with a new tool 14-11-2021 - [X]
 
 Day 15: Map made without using a computer 15-11-2021 - [ ]
 
-Day 16: Urban/rural 16-11-2021 - [ ]
+Day 16: Urban/rural 16-11-2021 - [X]
 
 Day 17: Land 17-11-2021 - [ ]
 
