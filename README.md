@@ -85,12 +85,18 @@ Monochrome map of my hometown area by Lake Maggiore and Orta based on the [hachu
 ### Day 10: Raster
 *Nothing stops you from doing almost all of the maps with raster data. But this day is dedicated to those lovely pixels.*
 
-Map will be available on 10-11-2021.
+Raster image of the Laguna di Venezia depicting the NDWI calculated on Sentinel 2 imagery using QGIS.
+
+![Map submission for Day 10 - Raster](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2010%20-%20Raster.png)
+*[Original Tweet](https://twitter.com/fede_gaspari/status/1458411618123931650)*
 
 ### Day 11: 3D
 *The magnificent third dimension! Visualize something in 3D*
 
-Map will be available on 11-11-2021.
+3D model of Sardinia rendered in Blender environment. The map was made by following the [tutorial by Klas Karlsson](https://www.youtube.com/watch?v=AJJNX243k9E&t=191s) using SRTM elevation rasters and OSM data prepared in QGIS and restyled in Blender.
+
+![Map submission for Day 11 - 3D](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2011%20-%203D.png)
+*[Original Tweet](https://twitter.com/fede_gaspari/status/1458411618123931650)*
 
 ### Day 12: Population
 *A map about human or animal population*
