@@ -96,7 +96,7 @@ Raster image of the Laguna di Venezia depicting the NDWI calculated on Sentinel 
 3D model of Sardinia rendered in Blender environment. The map was made by following the [tutorial by Klas Karlsson](https://www.youtube.com/watch?v=AJJNX243k9E&t=191s) using SRTM elevation rasters and OSM data prepared in QGIS and restyled in Blender.
 
 ![Map submission for Day 11 - 3D](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2011%20-%203D.png)
-*[Original Tweet](https://twitter.com/fede_gaspari/status/1458411618123931650)*
+*[Original Tweet](https://twitter.com/fede_gaspari/status/1458774007319339015?t=AR6AVAvd6aY5bc_VZLDSEQ&s=09)*
 
 ### Day 12: Population
 *A map about human or animal population*
