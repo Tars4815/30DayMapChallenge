@@ -101,7 +101,10 @@ Raster image of the Laguna di Venezia depicting the NDWI calculated on Sentinel 
 ### Day 12: Population
 *A map about human or animal population*
 
-Map will be available on 12-11-2021.
+2020 Italian Population visualized with Aerialod with data preparation on QGIS and Inkscape. Data from WorldPop.
+
+![Map submission for Day 12 - Population](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2012%20-%20Population.png)
+*[Original Tweet](//)*
 
 ### Day 13: Data challenge 2: Natural Earth
 *Great public domain map dataset for cartography on global and national scales. You can use Natural Earth as a part of your map or as the main source.*
