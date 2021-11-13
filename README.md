@@ -104,12 +104,15 @@ Raster image of the Laguna di Venezia depicting the NDWI calculated on Sentinel 
 2020 Italian Population visualized with Aerialod with data preparation on QGIS and Inkscape. Data from WorldPop.
 
 ![Map submission for Day 12 - Population](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2012%20-%20Population.png)
-*[Original Tweet](//)*
+*[Original Tweet](https://twitter.com/fede_gaspari/status/1459136396795461698?s=20)*
 
 ### Day 13: Data challenge 2: Natural Earth
 *Great public domain map dataset for cartography on global and national scales. You can use Natural Earth as a part of your map or as the main source.*
 
-Map will be available on 13-11-2021.
+A simple map overview of Flixbus routes traveled in 2019. Routes data retrieved from OpenStreetMap and Flixbus account. Basemap, populated areas, cities and boundaries from Natural Earth.
+
+![Map submission for Day 13 - Data challenge 2: Natural Earth](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2013%20-%20Natural%20Earth%20Data%20Challenge.png)
+*[Original Tweet](https://twitter.com/fede_gaspari/status/1459498341230911489?s=20)*
 
 ### Day 14: Map with a new tool
 *As the whole #30DayMapChallenge is much about learning and experimenting, this day is dedicated to exploring new tools. See the list on this repo below or find something interesting yourself!*
