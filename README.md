@@ -117,7 +117,10 @@ A simple map overview of Flixbus routes traveled in 2019. Routes data retrieved 
 ### Day 14: Map with a new tool
 *As the whole #30DayMapChallenge is much about learning and experimenting, this day is dedicated to exploring new tools. See the list on this repo below or find something interesting yourself!*
 
-Map will be available on 14-11-2021.
+Time series animations of Earth observation imagery representing 20-year median NDVI for serial 16-day MODIS composites spanning January 1st through December 31st. The GIF was made for the Italian territory adapting [Google Earth Engine code tutorial](https://developers.google.com/earth-engine/tutorials/community/modis-ndvi-time-series-animation#6_create_an_animated_gif) made by jdbcode.
+
+![Map submission for Day 14 - Map with a new tool](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2014%20-%20Map%20with%20new%20tool.gif)
+*[Original Tweet](https://twitter.com/fede_gaspari/status/1459861169645269002)*
 
 ### Day 15: Map made without using a computer
 *Title speaks for itself. Use pen & paper etc...*
