@@ -126,6 +126,7 @@ Time series animations of Earth observation imagery representing 20-year median 
 *Title speaks for itself. Use pen & paper etc...*
 
 Geography of some of the most exciting fantasy and sci-fi adventures from movies, TV series and books. Tools... Paper, pen and pencil!
+Data: Harry Potter, The Lord of the Rings, Arrival, Contact, Narnia, Star Trek, Artemis, Moon, Battlestar Galactica, Star Wars, Interstellar, Foundation, 2001: A Space Odyssey, Dune
 
 ![Map submission for Day 15 - Map made without using a computer](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2015%20-%20Map%20without%20a%20computer.png)
 *[Original Tweet](https://twitter.com/fede_gaspari/status/1460360872652677125?s=20)*
@@ -133,7 +134,10 @@ Geography of some of the most exciting fantasy and sci-fi adventures from movies
 ### Day 16: Urban/rural
 *Map an urban area or rural area. Or something that defines that place.*
 
-Map will be available on 16-11-2021.
+Artificial and agricultural surfaces evolution between 1954 and 2018 in the Cremona municipality according to landuse data from GeoPortale Regione Lombardia. Experimenting with QGIS Atlas by field.
+
+![Map submission for Day 16 - Urban/Rural](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2016%20-%20Urban%20Rural.gif)
+*[Original Tweet](https://twitter.com/fede_gaspari/status/1460585947964264453)*
 
 ### Day 17: Land
 *Land, landcover, landuse...*
