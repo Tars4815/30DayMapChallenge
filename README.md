@@ -125,7 +125,10 @@ Time series animations of Earth observation imagery representing 20-year median 
 ### Day 15: Map made without using a computer
 *Title speaks for itself. Use pen & paper etc...*
 
-Map will be available on 15-11-2021.
+Geography of some of the most exciting fantasy and sci-fi adventures from movies, TV series and books. Tools... Paper, pen and pencil!
+
+![Map submission for Day 15 - Map made without using a computer](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2015%20-%20Map%20without%20a%20computer.png)
+*[Original Tweet](https://twitter.com/fede_gaspari/status/1460360872652677125?s=20)*
 
 ### Day 16: Urban/rural
 *Map an urban area or rural area. Or something that defines that place.*
