@@ -142,12 +142,18 @@ Artificial and agricultural surfaces evolution between 1954 and 2018 in the Crem
 ### Day 17: Land
 *Land, landcover, landuse...*
 
-Map will be available on 17-11-2021.
+to be updated
+
+![Map submission for Day 17 - Land](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2017%20-%20Land.jpg)
+*[Original Tweet](//)*
 
 ### Day 18: Water
 *Oceans, lakes, rivers or something completely different.*
 
-Map will be available on 18-11-2021.
+to be updated
+
+![Map submission for Day 18 - Water](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2018%20-%20Water.jpg)
+*[Original Tweet](//)*
 
 ### Day 19: Island(s)
 *Islands in the water, islands of innovation or something completely different.*
