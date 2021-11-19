@@ -152,7 +152,7 @@ Landuse surfaces for Emilia Romagna Provinces in 2018 with data from Geoportale 
 
 Italian "lake shapes" starting from ferry routes mapped on OpenStreetMap. Tools: QGIS + Inkscape
 
-![Map submission for Day 18 - Water](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2018%20-%20Water.png)
+![Map submission for Day 18 - Water](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2018%20-%20Waters.png)
 *[Original Tweet](/https://twitter.com/fede_gaspari/status/1461386218374115332)*
 
 ### Day 19: Island(s)
