@@ -168,8 +168,8 @@ Borromean islands in Stresa (Italy) visualised with QGIS and Inkscape adapting w
 
 Animation of gpx track of Stage 20 of Giro d'Italia 2021 using data from [La Flamme Rouge](https://www.la-flamme-rouge.eu/maps/viewtrack/417658), OpenStreetMap, SRTM and Bing Satellite. The final gif was the results of QGIS Atlas settings made by experimenting with [Topi Tjukanov blog post](https://medium.com/@tjukanov/geospatial-animations-with-qgis-atlas-995d7ddb2d67) about Geospatial animation with QGIS Atlas.
 
-![Map submission for Day 16 - Urban/Rural](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2020%20-%20Movement.gif)
-*[Original Tweet](//)*
+![Map submission for Day 20 - Movement](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2020%20-%20Movement.gif)
+*[Original Tweet](https://twitter.com/fede_gaspari/status/1462035496922607624)*
 
 ### Day 21: Elevation
 **
