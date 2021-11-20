@@ -153,16 +153,23 @@ Landuse surfaces for Emilia Romagna Provinces in 2018 with data from Geoportale 
 Italian "lake shapes" starting from ferry routes mapped on OpenStreetMap. Tools: QGIS + Inkscape
 
 ![Map submission for Day 18 - Water](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2018%20-%20Waters.png)
-*[Original Tweet](/https://twitter.com/fede_gaspari/status/1461386218374115332)*
+*[Original Tweet](https://twitter.com/fede_gaspari/status/1461386218374115332)*
 
 ### Day 19: Island(s)
 *Islands in the water, islands of innovation or something completely different.*
 
-Map will be available on 19-11-2021.
+Borromean islands in Stresa (Italy) visualised with QGIS and Inkscape adapting waterlines style by [jakob.listabarth](https://instagram.com/jakob.listabarth).
+
+![Map submission for Day 19 - Island(s)](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2019%20-%20Islands.png)
+*[Original Tweet](https://twitter.com/fede_gaspari/status/1462006625460539392)*
 
 ### Day 20: Movement
-**
-Map will be available on 20-11-2021.
+*Visualizing movement can be done with a static map or with an animation.*
+
+Animation of gpx track of Stage 20 of Giro d'Italia 2021 using data from [La Flamme Rouge](https://www.la-flamme-rouge.eu/maps/viewtrack/417658), OpenStreetMap, SRTM and Bing Satellite. The final gif was the results of QGIS Atlas settings made by experimenting with [Topi Tjukanov blog post](https://medium.com/@tjukanov/geospatial-animations-with-qgis-atlas-995d7ddb2d67) about Geospatial animation with QGIS Atlas.
+
+![Map submission for Day 16 - Urban/Rural](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2020%20-%20Movement.gif)
+*[Original Tweet](//)*
 
 ### Day 21: Elevation
 **
