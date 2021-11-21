@@ -172,52 +172,55 @@ Animation of gpx track of Stage 20 of Giro d'Italia 2021 using data from [La Fla
 *[Original Tweet](https://twitter.com/fede_gaspari/status/1462035496922607624)*
 
 ### Day 21: Elevation
-**
+*Sweet hillshades, beautiful contours, high mountains or low valleys.*
 
-Map will be available on 21-11-2021.
+Elevation map of the island of Crete in the LEGO style inspired by [Andriy Yaremenko](https://medium.com/@andriyyaremenko/how-to-create-lego-map-style-in-qgis-a8ecf42d02ef) and [hannes.enjoys](https://hannes.enjoys.it/blog/2019/11/30daymapchallenge-day-3-polygons-or-lego-style-brick-raster-in-qgis-using-geometry-generator-expressions/) tutorials.
+
+![Map submission for Day 21 - Elevation](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2021%20-%20Elevation.png)
+*[Original Tweet](https://twitter.com/fede_gaspari/status/1462397884108734466)*
 
 ### Day 22: Boundaries
-**
+*Boundaries are all around us. Some of them are visible and some of them are in our heads.*
 
 Map will be available on 22-11-2021.
 
 ### Day 23: Data challenge 3: GHSL
-**
+*The third data challenge should be created using this great dataset by EC JRC on human population.*
 
 Map will be available on 23-11-2021.
 
 ### Day 24: Historical map
-**
+*Historical data, historical style or something else.*
 
 Map will be available on 24-11-2021.
 
 ### Day 25: Interactive map
-**
+*What if the user wants to click, pan and explore your map?*
 
 Map will be available on 25-11-2021.
 
 ### Day 26: Choropleth map
-**
+*A choropleth map is a type of thematic map in which a set of pre-defined areas is colored or patterned in proportion to a statistical variable that represents an aggregate summary of a geographic characteristic within each area, such as population density or per-capita income.*
 
 Map will be available on 26-11-2021.
 
 ### Day 27: Heatmap
-**
+*A heat map (or heatmap) is a data visualization technique that shows magnitude of a phenomenon as color in two dimensions.*
 
 Map will be available on 27-11-2021.
 
 ### Day 28: The Earth is not flat
-**
+*The Earth isn’t flat (AFAIK), so how would you show that on a map?*
 
 Map will be available on 28-11-2021.
 
 ### Day 29: NULL
-**
+*...*
 
 Map will be available on 29-11-2021.
 
 ### Day 30: Metamapping day
-**
+*Final day! Spend the day either by 1) collecting your entries from the challenge to a common gallery, 2) writing a tutorial or a blog post on one of your maps or 3) create a map from a theme you have chosen yourself*
 
 Map will be available on 30-11-2021.
 

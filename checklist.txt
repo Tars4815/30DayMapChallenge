@@ -22,25 +22,25 @@ Day 11: 3D 11-11-2021 - [X]
 
 Day 12: Population 12-11-2021 - [X]
 
-Day 13: Data challenge 2: Natural Earth 13-11-2021 - [ ]
+Day 13: Data challenge 2: Natural Earth 13-11-2021 - [x]
 
 Day 14: Map with a new tool 14-11-2021 - [X]
 
-Day 15: Map made without using a computer 15-11-2021 - [ ]
+Day 15: Map made without using a computer 15-11-2021 - [x]
 
 Day 16: Urban/rural 16-11-2021 - [X]
 
-Day 17: Land 17-11-2021 - [ ]
+Day 17: Land 17-11-2021 - [x]
 
-Day 18: Water 18-11-2021 - [ ]
+Day 18: Water 18-11-2021 - [x]
 
-Day 19: Island(s) 19-11-2021 - [ ]
+Day 19: Island(s) 19-11-2021 - [x]
 
 Day 20: Movement - 20-11-2021 [X]
 
 Day 21: Elevation 21-11-2021 - [X]
 
-Day 22: Boundaries 22-11-2021 - [ ]
+Day 22: Boundaries 22-11-2021 - [X]
 
 Day 23: Data challenge 3: GHSL 23-11-2021 - [ ]
 
