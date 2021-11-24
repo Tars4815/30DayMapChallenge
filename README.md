@@ -187,7 +187,10 @@ Map will be available on 22-11-2021.
 ### Day 23: Data challenge 3: GHSL
 *The third data challenge should be created using this great dataset by EC JRC on human population.*
 
-Map will be available on 23-11-2021.
+GHSL 2015 Population of Lombardia region in Italy. Data pre-processed in QGIS using ISTAT data for the administrative boundaries. Rendered in turntable mode in Aerialod.
+
+![Map submission for Day 23 - Data Challenge 3: GHSL](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2023%20-%20Data%20Challenge%203%20GHSL.gif)
+*[Original Tweet](https://twitter.com/fede_gaspari/status/1463542379667988484)*
 
 ### Day 24: Historical map
 *Historical data, historical style or something else.*
