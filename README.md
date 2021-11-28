@@ -200,7 +200,7 @@ GHSL 2015 Population of Lombardia region in Italy. Data pre-processed in QGIS us
 
 3D interactive map of 1793 map of Cornwall made wity QGIS2threejs plugin. Original map data from [The New York Public Library](https://digitalcollections.nypl.org/items/8ddd6b00-c5d8-0137-ecad-079d79a8c24d), elevation from SRTM. Interactive view [here](https://tars4815.github.io/30DayMapChallenge/viz/day24historical.html).
 
-![Map submission for Day 24 - Historical map](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2024%20-%20Historical%20Map.png)
+![Map submission for Day 24 - Historical map](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2024%20-%20Historical%20map.png)
 *[Original Tweet](https://twitter.com/fede_gaspari/status/1462760273991798789)*
 
 ### Day 25: Interactive map
