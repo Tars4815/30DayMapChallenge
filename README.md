@@ -206,7 +206,10 @@ GHSL 2015 Population of Lombardia region in Italy. Data pre-processed in QGIS us
 ### Day 25: Interactive map
 *What if the user wants to click, pan and explore your map?*
 
-Map will be available on 25-11-2021.
+Interactive map of La La Land movie locations originally created for [IlTermopolio](https://www.iltermopolio.com/cinema/a-spasso-per-la-la-land). Interactive version available on [UMap](https://umap.openstreetmap.fr/it/map/la-la-land-movie-locations_241598#10/34.0157/-118.2568). Data from OpenStreetMap, seeing-stars, movie-locations, IMDb processed in QGIS and Inkscape.
+
+![Map submission for Day 25 - Interactive map](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2025%20-%20Interactive%20map.jpg)
+*[Original Tweet](https://twitter.com/fede_gaspari/status/1463848693912719365)*
 
 ### Day 26: Choropleth map
 *A choropleth map is a type of thematic map in which a set of pre-defined areas is colored or patterned in proportion to a statistical variable that represents an aggregate summary of a geographic characteristic within each area, such as population density or per-capita income.*
