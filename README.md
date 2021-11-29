@@ -214,22 +214,34 @@ Interactive map of La La Land movie locations originally created for [IlTermopol
 ### Day 26: Choropleth map
 *A choropleth map is a type of thematic map in which a set of pre-defined areas is colored or patterned in proportion to a statistical variable that represents an aggregate summary of a geographic characteristic within each area, such as population density or per-capita income.*
 
-Map will be available on 26-11-2021.
+Chropleth map style derived from hydraulic risk affected areas of Regione Emilia Romagna (Italy). Data from ISTAT processed in QGIS.
+
+![Map submission for Day 26 - Choropleth map](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2026%20-%20Choropleth.jpg)
+*[Original Tweet](https://twitter.com/fede_gaspari/status/1464567833917067272)*
 
 ### Day 27: Heatmap
 *A heat map (or heatmap) is a data visualization technique that shows magnitude of a phenomenon as color in two dimensions.*
 
-Map will be available on 27-11-2021.
+Heatmap of the contribution to OpenStreetMap recorded in the context of the PoliMappers collaboration with IMMDesignLab and TECHO Colombia for the collaborative mapping of informal settlements between Bogotà and Soacha.
+
+![Map submission for Day 27 - Heatmap](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2027%20-%20Heatmap.jpg)
+*[Original Tweet](https://twitter.com/fede_gaspari/status/1464632609489760265)*
 
 ### Day 28: The Earth is not flat
 *The Earth isn’t flat (AFAIK), so how would you show that on a map?*
 
-Map will be available on 28-11-2021.
+Geo-animation of the tour gigs of the Formation World Tour by Beyoncé that took place in 2016. Data from Wikipedia, WikiData and Natural Earth. Tools: QGIS and GIMP.
+
+![Map submission for Day 28 - The Earth is not flat](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2028%20-%20The%20Earth%20is%20not%20Flat.gif)
+*[Original Tweet](https://twitter.com/fede_gaspari/status/1464934599012716552)*
 
 ### Day 29: NULL
 *...*
 
-Map will be available on 29-11-2021.
+---
+
+![Map submission for Day 29 - NULL](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2029%20-%20NULL.jpg)
+*[Original Tweet](https://twitter.com/fede_gaspari/status/1464934599012716552)*
 
 ### Day 30: Metamapping day
 *Final day! Spend the day either by 1) collecting your entries from the challenge to a common gallery, 2) writing a tutorial or a blog post on one of your maps or 3) create a map from a theme you have chosen yourself*
