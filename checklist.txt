@@ -42,18 +42,18 @@ Day 21: Elevation 21-11-2021 - [X]
 
 Day 22: Boundaries 22-11-2021 - [X]
 
-Day 23: Data challenge 3: GHSL 23-11-2021 - [ ]
+Day 23: Data challenge 3: GHSL 23-11-2021 - [x]
 
-Day 24: Historical map 24-11-2021 - [ ]
+Day 24: Historical map 24-11-2021 - [x]
 
 Day 25: Interactive map 25-11-2021 - [X]
 
-Day 26: Choropleth map 26-11-2021 - [ ]
+Day 26: Choropleth map 26-11-2021 - [x]
 
-Day 27: Heatmap 27-11-2021 - [ ]
+Day 27: Heatmap 27-11-2021 - [x]
 
-Day 28: The Earth is not flat 28-11-2021 - [ ]
+Day 28: The Earth is not flat 28-11-2021 - [x]
 
-Day 29: NULL 29-11-2021 - [ ]
+Day 29: NULL 29-11-2021 - [x]
 
 Day 30: Metamapping day 30-11-2021 - [X]
