@@ -246,7 +246,30 @@ Geo-animation of the tour gigs of the Formation World Tour by Beyoncé that took
 ### Day 30: Metamapping day
 *Final day! Spend the day either by 1) collecting your entries from the challenge to a common gallery, 2) writing a tutorial or a blog post on one of your maps or 3) create a map from a theme you have chosen yourself*
 
-Map will be available on 30-11-2021.
+A blogpost? A gallery? Why not both? While gathering together all the previous submissions for the challenge at this [link](https://tars4815.github.io/30DayMapChallenge/), it has been amazing to revisit the small and big tasks of each day. Day by day, I had the opportunity to deal with different kind of data, experimenting with the most efficient data preparation workflow and discovering new and exciting data sources. The main idea was to get out of the usual comfort zone along the entire challenge, for both analysis, tools and especially final visualisation of the results. After 30 days I can tell I'm grateful to [Topi Tjukanov](https://github.com/tjukanovt), creator of #30DayMapChallenge, and to the entire Twitter community of the challenge for inspiring me every day with new ideas, projects and suggestions: it was extremely fun to explore Twitter and find it full of amazing and passionate map contributions over the past 4 weeks!
 
+During the challenge, I tried as much as possible to leverage familiar and new tools, paying particular attention to open-source technologies. The good, old and beloved [QGIS](https://qgis.org/en/site/index.html) played a key role for the majority of the contributions but other software become gradually more and more relevant in my maps. In particular, I can tell that now I'm a big fan of [Aerialod](https://ephtracy.github.io/index.html?page=aerialod) and [Blender](https://www.blender.org/), after totally falling in love with their 3D representation potentials. And what about geo-gif? Starting playing with animation made me realise how versatile and incredibile could be a tool like QGIS Atlas!
 
+Here's the complete list of the tools I used for this challenge:
+<ul>
+  <li>QGIS</li>
+  <li>OverPass Turbo</li>
+  <li>Inkscape</li>
+  <li>Mapillary Services</li>
+  <li>Aerialod</li>
+  <li>MATLAB</li>
+  <li>WikiData Query Service</li>
+  <li>Kepler.gl</li>
+  <li>Blender</li>
+  <li>Google Earth Engine</li>
+  <li>GIMP</li>
+  <li>UMap</li>
+  <li>github</li>
+  <li>TweetDeck</li>
+</ul>
 
+Last but not the least, I'd like to first acknowledge the support and suggestions of friends along the entire #30DayMapChallenge journey. Their help and feedback on map and rendering has been extremely valuable to every map entries. Thanks also to all the amazing Twitter social-mappers with each I had the opportunity to interact during the challenge: the human component of this event is without any doubts the most intriguing and challenging, with exchange of ideas and perspectives on different topics.
+
+...and now, what's next? Well, the ideas are even more than the ones I had at the beginning of this journey. For sure, I'd like to experiment more with coding, gaining some hands-on experience with spatial analysis with Python and/or R. The great tutorials and blog posts shared by the community will be important starting point for this new learning adventures that (maybe) will results in some dedicated contributions for the next #30DayMapChallenge.
+
+So, probably that's not all: it's very difficult to summarize in few words all the feelings and experiences of these past 30 days. However, another Challenge is over and I can't wait for new exciting ones on both personal and technical levels. Have a mappy December!
