@@ -20,7 +20,7 @@ Terrain elevations of Northern Piedmont (Italy) visualized using Joy Division st
 
 [Original inspiration](https://twitter.com/imhere_asia/status/1023055838787690496)
 
-![Map submission for Day 2 - Lines](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%202%20-%20Lines.png)
+![Map submission for Day 2 - Lines](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/2021/Day%202%20-%20Lines.png)
 *[Original Tweet](https://twitter.com/fede_gaspari/status/1455512514658123776)*
 
 ### Day 3: Polygons
@@ -29,7 +29,7 @@ Terrain elevations of Northern Piedmont (Italy) visualized using Joy Division st
 Concentration of noir movies' narrative locations based on WikiData information. [WikiData query](https://w.wiki/4JBW
 )
 
-![Map submission for Day 3 - Polygons](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%203%20-%20Poligoni.png)
+![Map submission for Day 3 - Polygons](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/2021/Day%203%20-%20Poligoni.png)
 *[Original Tweet](https://twitter.com/fede_gaspari/status/1455874905531039748)*
 
 ### Day 4: Hexagons
@@ -37,7 +37,7 @@ Concentration of noir movies' narrative locations based on WikiData information.
 
 Playing a bit with traffic signs data downloaded from Mapillary services and visualised using QGIS and Inkscape.
 
-![Map submission for Day 4 - Hexagons](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%204%20-%20Hexagons.png)
+![Map submission for Day 4 - Hexagons](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/2021/Day%204%20-%20Hexagons.png)
 *[Original Tweet](https://twitter.com/fede_gaspari/status/1456237292125818880)*
 
 ### Day 5: Data challenge 1: OpenStreetMap
@@ -45,7 +45,7 @@ Playing a bit with traffic signs data downloaded from Mapillary services and vis
 
 3D (false)view of the streets and buildings of Rome with roads (primary, secondary, tertiary and residential ones) and buildings downloaded using QuickOSM. Composition made with QGIS with details added in Inkscape. Final 3D rendering made with Aerialoid and based on the great tutorial by Alasdair Rae ([Arterial Cities Tutorial](https://www.statsmapsnpix.com/2021/06/arterial-cities.html)).
 
-![Map submission for Day 5 - Data Challenge 1: OpenStreetMap](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%205%20-%20OSM%20Data%20Challenge.png)
+![Map submission for Day 5 - Data Challenge 1: OpenStreetMap](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/2021/Day%205%20-%20OSM%20Data%20Challenge.png)
 *[Original Tweet](https://twitter.com/fede_gaspari/status/1456599678103871496)*
 
 ### Day 6: Red
@@ -53,7 +53,7 @@ Playing a bit with traffic signs data downloaded from Mapillary services and vis
 
 Portion of red in national flags around the world. Data retrieved from [Wikipedia](https://en.wikipedia.org/wiki/List_of_flags_by_color_combination) and [Infocaptor](https://www.infocaptor.com/color-and-pattern-analysis-on-flags-of-countries-simple-visualization-but-interesting-data), processed with QGIS and MATLAB.
 
-![Map submission for Day 6 - Red](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%206%20-%20Red.png)
+![Map submission for Day 6 - Red](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/2021/Day%206%20-%20Red.png)
 *[Original Tweet](https://twitter.com/fede_gaspari/status/1456962068670660615)*
 
 ### Day 7: Green
@@ -61,7 +61,7 @@ Portion of red in national flags around the world. Data retrieved from [Wikipedi
 
 NDVI calculated in different seasons for the municipality of Piacenza (Italy) using Sentinel 2 imagery and Geoportale Emilia Romagna data. Processed in QGIS with a little help of Inkscape for the visualisation. GIF made using GIMP.
 
-![Map submission for Day 7 - Green](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%207%20-%20Green.gif)
+![Map submission for Day 7 - Green](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/2021/Day%207%20-%20Green.gif)
 *[Original Tweet](https://twitter.com/fede_gaspari/status/1457292858193588224)*
 
 ### Day 8: Blue
@@ -71,7 +71,7 @@ Map of the birth places of Italian volleyball and soccer players who won the 202
 Inspired by work done by @tjukanov with soccer players at the 2021 European Championship.a
 
 
-![Map submission for Day 8 - Blue](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%208%20-%20Blue.png)
+![Map submission for Day 8 - Blue](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/2021/Day%208%20-%20Blue.png)
 *[Original Tweet](https://twitter.com/fede_gaspari/status/1457686842849906695)*
 
 ### Day 9: Monochrome
@@ -79,7 +79,7 @@ Inspired by work done by @tjukanov with soccer players at the 2021 European Cham
 
 Monochrome map of my hometown area by Lake Maggiore and Orta based on the [hachure style by Robin Hawkes](https://robinhawkes.com/blog/qgis-monochrome-hachures/). Data from OpenStreetMap processed and visualized on QGIS environment.
 
-![Map submission for Day 9 - Monochrome](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%209%20-%20Monochrome.png)
+![Map submission for Day 9 - Monochrome](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/2021/Day%209%20-%20Monochrome.png)
 *[Original Tweet](https://twitter.com/fede_gaspari/status/1458049233563570177)*
 
 ### Day 10: Raster
@@ -87,7 +87,7 @@ Monochrome map of my hometown area by Lake Maggiore and Orta based on the [hachu
 
 Raster image of the Laguna di Venezia depicting the NDWI calculated on Sentinel 2 imagery using QGIS.
 
-![Map submission for Day 10 - Raster](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2010%20-%20Raster.png)
+![Map submission for Day 10 - Raster](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/2021/Day%2010%20-%20Raster.png)
 *[Original Tweet](https://twitter.com/fede_gaspari/status/1458411618123931650)*
 
 ### Day 11: 3D
@@ -95,7 +95,7 @@ Raster image of the Laguna di Venezia depicting the NDWI calculated on Sentinel 
 
 3D model of Sardinia rendered in Blender environment. The map was made by following the [tutorial by Klas Karlsson](https://www.youtube.com/watch?v=AJJNX243k9E&t=191s) using SRTM elevation rasters and OSM data prepared in QGIS and restyled in Blender.
 
-![Map submission for Day 11 - 3D](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2011%20-%203D.png)
+![Map submission for Day 11 - 3D](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/2021/Day%2011%20-%203D.png)
 *[Original Tweet](https://twitter.com/fede_gaspari/status/1458774007319339015?t=AR6AVAvd6aY5bc_VZLDSEQ&s=09)*
 
 ### Day 12: Population
@@ -103,7 +103,7 @@ Raster image of the Laguna di Venezia depicting the NDWI calculated on Sentinel 
 
 2020 Italian Population visualized with Aerialod with data preparation on QGIS and Inkscape. Data from WorldPop.
 
-![Map submission for Day 12 - Population](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2012%20-%20Population.png)
+![Map submission for Day 12 - Population](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/2021/Day%2012%20-%20Population.png)
 *[Original Tweet](https://twitter.com/fede_gaspari/status/1459136396795461698?s=20)*
 
 ### Day 13: Data challenge 2: Natural Earth
@@ -111,7 +111,7 @@ Raster image of the Laguna di Venezia depicting the NDWI calculated on Sentinel 
 
 A simple map overview of Flixbus routes traveled in 2019. Routes data retrieved from OpenStreetMap and Flixbus account. Basemap, populated areas, cities and boundaries from Natural Earth.
 
-![Map submission for Day 13 - Data challenge 2: Natural Earth](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2013%20-%20Natural%20Earth%20Data%20Challenge.png)
+![Map submission for Day 13 - Data challenge 2: Natural Earth](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/2021/Day%2013%20-%20Natural%20Earth%20Data%20Challenge.png)
 *[Original Tweet](https://twitter.com/fede_gaspari/status/1459498341230911489?s=20)*
 
 ### Day 14: Map with a new tool
@@ -119,7 +119,7 @@ A simple map overview of Flixbus routes traveled in 2019. Routes data retrieved 
 
 Time series animations of Earth observation imagery representing 20-year median NDVI for serial 16-day MODIS composites spanning January 1st through December 31st. The GIF was made for the Italian territory adapting [Google Earth Engine code tutorial](https://developers.google.com/earth-engine/tutorials/community/modis-ndvi-time-series-animation#6_create_an_animated_gif) made by jdbcode.
 
-![Map submission for Day 14 - Map with a new tool](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2014%20-%20Map%20with%20new%20tool.gif)
+![Map submission for Day 14 - Map with a new tool](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/2021/Day%2014%20-%20Map%20with%20new%20tool.gif)
 *[Original Tweet](https://twitter.com/fede_gaspari/status/1459861169645269002)*
 
 ### Day 15: Map made without using a computer
@@ -128,7 +128,7 @@ Time series animations of Earth observation imagery representing 20-year median 
 Geography of some of the most exciting fantasy and sci-fi adventures from movies, TV series and books. Tools... Paper, pen and pencil!
 Data: Harry Potter, The Lord of the Rings, Arrival, Contact, Narnia, Star Trek, Artemis, Moon, Battlestar Galactica, Star Wars, Interstellar, Foundation, 2001: A Space Odyssey, Dune
 
-![Map submission for Day 15 - Map made without using a computer](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2015%20-%20Map%20without%20a%20computer.png)
+![Map submission for Day 15 - Map made without using a computer](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/2021/Day%2015%20-%20Map%20without%20a%20computer.png)
 *[Original Tweet](https://twitter.com/fede_gaspari/status/1460360872652677125?s=20)*
 
 ### Day 16: Urban/rural
@@ -136,7 +136,7 @@ Data: Harry Potter, The Lord of the Rings, Arrival, Contact, Narnia, Star Trek, 
 
 Artificial and agricultural surfaces evolution between 1954 and 2018 in the Cremona municipality according to landuse data from GeoPortale Regione Lombardia. Experimenting with QGIS Atlas by field.
 
-![Map submission for Day 16 - Urban/Rural](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2016%20-%20Urban%20Rural.gif)
+![Map submission for Day 16 - Urban/Rural](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/2021/Day%2016%20-%20Urban%20Rural.gif)
 *[Original Tweet](https://twitter.com/fede_gaspari/status/1460585947964264453)*
 
 ### Day 17: Land
@@ -144,7 +144,7 @@ Artificial and agricultural surfaces evolution between 1954 and 2018 in the Crem
 
 Landuse surfaces for Emilia Romagna Provinces in 2018 with data from Geoportale Emilia Romagna and Bing Satellite. The map style was inspired by the great work done by [rxlacroix](https://rxlacroix.github.io/articles/lignes_dubois).
 
-![Map submission for Day 17 - Land](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2017%20-%20Land.png)
+![Map submission for Day 17 - Land](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/2021/Day%2017%20-%20Land.png)
 *[Original Tweet](https://twitter.com/fede_gaspari/status/1461310724248981505)*
 
 ### Day 18: Water
@@ -152,7 +152,7 @@ Landuse surfaces for Emilia Romagna Provinces in 2018 with data from Geoportale 
 
 Italian "lake shapes" starting from ferry routes mapped on OpenStreetMap. Tools: QGIS + Inkscape
 
-![Map submission for Day 18 - Water](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2018%20-%20Waters.png)
+![Map submission for Day 18 - Water](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/2021/Day%2018%20-%20Waters.png)
 *[Original Tweet](https://twitter.com/fede_gaspari/status/1461386218374115332)*
 
 ### Day 19: Island(s)
@@ -160,7 +160,7 @@ Italian "lake shapes" starting from ferry routes mapped on OpenStreetMap. Tools:
 
 Borromean islands in Stresa (Italy) visualised with QGIS and Inkscape adapting waterlines style by [jakob.listabarth](https://instagram.com/jakob.listabarth).
 
-![Map submission for Day 19 - Island(s)](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2019%20-%20Islands.png)
+![Map submission for Day 19 - Island(s)](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/2021/Day%2019%20-%20Islands.png)
 *[Original Tweet](https://twitter.com/fede_gaspari/status/1462006625460539392)*
 
 ### Day 20: Movement
@@ -168,7 +168,7 @@ Borromean islands in Stresa (Italy) visualised with QGIS and Inkscape adapting w
 
 Animation of gpx track of Stage 20 of Giro d'Italia 2021 using data from [La Flamme Rouge](https://www.la-flamme-rouge.eu/maps/viewtrack/417658), OpenStreetMap, SRTM and Bing Satellite. The final gif was the results of QGIS Atlas settings made by experimenting with [Topi Tjukanov blog post](https://medium.com/@tjukanov/geospatial-animations-with-qgis-atlas-995d7ddb2d67) about Geospatial animation with QGIS Atlas.
 
-![Map submission for Day 20 - Movement](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2020%20-%20Movement.gif)
+![Map submission for Day 20 - Movement](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/2021/Day%2020%20-%20Movement.gif)
 *[Original Tweet](https://twitter.com/fede_gaspari/status/1462035496922607624)*
 
 ### Day 21: Elevation
@@ -176,7 +176,7 @@ Animation of gpx track of Stage 20 of Giro d'Italia 2021 using data from [La Fla
 
 Elevation map of the island of Crete in the LEGO style inspired by [Andriy Yaremenko](https://medium.com/@andriyyaremenko/how-to-create-lego-map-style-in-qgis-a8ecf42d02ef) and [hannes.enjoys](https://hannes.enjoys.it/blog/2019/11/30daymapchallenge-day-3-polygons-or-lego-style-brick-raster-in-qgis-using-geometry-generator-expressions/) tutorials.
 
-![Map submission for Day 21 - Elevation](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2021%20-%20Elevation.png)
+![Map submission for Day 21 - Elevation](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/2021/Day%2021%20-%20Elevation.png)
 *[Original Tweet](https://twitter.com/fede_gaspari/status/1462397884108734466)*
 
 ### Day 22: Boundaries
@@ -184,7 +184,7 @@ Elevation map of the island of Crete in the LEGO style inspired by [Andriy Yarem
 
 QGIS map layout depicting the political boundaries of Westeros, the fictional land of Game of Thrones narrative universe. Data from Cartographers' Guild forum.
 
-![Map submission for Day 22 - Boundaries](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2022%20-%20Boundaries.png)
+![Map submission for Day 22 - Boundaries](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/2021/Day%2022%20-%20Boundaries.png)
 *[Original Tweet](https://twitter.com/fede_gaspari/status/1462760273991798789)*
 
 ### Day 23: Data challenge 3: GHSL
@@ -192,7 +192,7 @@ QGIS map layout depicting the political boundaries of Westeros, the fictional la
 
 GHSL 2015 Population of Lombardia region in Italy. Data pre-processed in QGIS using ISTAT data for the administrative boundaries. Rendered in turntable mode in Aerialod. 
 
-![Map submission for Day 23 - Data Challenge 3: GHSL](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2023%20-%20Data%20Challenge%203%20GHSL.gif)
+![Map submission for Day 23 - Data Challenge 3: GHSL](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/2021/Day%2023%20-%20Data%20Challenge%203%20GHSL.gif)
 *[Original Tweet](https://twitter.com/fede_gaspari/status/1463542379667988484)*
 
 ### Day 24: Historical map
@@ -200,7 +200,7 @@ GHSL 2015 Population of Lombardia region in Italy. Data pre-processed in QGIS us
 
 3D interactive map of 1793 map of Cornwall made wity QGIS2threejs plugin. Original map data from [The New York Public Library](https://digitalcollections.nypl.org/items/8ddd6b00-c5d8-0137-ecad-079d79a8c24d), elevation from SRTM. Interactive view [here](https://tars4815.github.io/30DayMapChallenge/viz/day24historical.html).
 
-![Map submission for Day 24 - Historical map](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2024%20-%20Historical%20map.png)
+![Map submission for Day 24 - Historical map](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/2021/Day%2024%20-%20Historical%20map.png)
 *[Original Tweet](https://twitter.com/fede_gaspari/status/1462760273991798789)*
 
 ### Day 25: Interactive map
@@ -208,7 +208,7 @@ GHSL 2015 Population of Lombardia region in Italy. Data pre-processed in QGIS us
 
 Interactive map of La La Land movie locations originally created for [IlTermopolio](https://www.iltermopolio.com/cinema/a-spasso-per-la-la-land). Interactive version available on [UMap](https://umap.openstreetmap.fr/it/map/la-la-land-movie-locations_241598#10/34.0157/-118.2568). Data from OpenStreetMap, seeing-stars, movie-locations, IMDb processed in QGIS and Inkscape.
 
-![Map submission for Day 25 - Interactive map](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2025%20-%20Interactive%20map.jpg)
+![Map submission for Day 25 - Interactive map](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/2021/Day%2025%20-%20Interactive%20map.jpg)
 *[Original Tweet](https://twitter.com/fede_gaspari/status/1463848693912719365)*
 
 ### Day 26: Choropleth map
@@ -216,7 +216,7 @@ Interactive map of La La Land movie locations originally created for [IlTermopol
 
 Chropleth map style derived from hydraulic risk affected areas of Regione Emilia Romagna (Italy). Data from ISTAT processed in QGIS.
 
-![Map submission for Day 26 - Choropleth map](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2026%20-%20Choropleth.jpg)
+![Map submission for Day 26 - Choropleth map](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/2021/Day%2026%20-%20Choropleth.jpg)
 *[Original Tweet](https://twitter.com/fede_gaspari/status/1464567833917067272)*
 
 ### Day 27: Heatmap
@@ -224,7 +224,7 @@ Chropleth map style derived from hydraulic risk affected areas of Regione Emilia
 
 Heatmap of the contribution to OpenStreetMap recorded in the context of the PoliMappers collaboration with IMMDesignLab and TECHO Colombia for the collaborative mapping of informal settlements between Bogotà and Soacha.
 
-![Map submission for Day 27 - Heatmap](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2027%20-%20Heatmap.jpg)
+![Map submission for Day 27 - Heatmap](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/2021/Day%2027%20-%20Heatmap.jpg)
 *[Original Tweet](https://twitter.com/fede_gaspari/status/1464632609489760265)*
 
 ### Day 28: The Earth is not flat
@@ -232,7 +232,7 @@ Heatmap of the contribution to OpenStreetMap recorded in the context of the Poli
 
 Geo-animation of the tour gigs of the Formation World Tour by Beyoncé that took place in 2016. Data from Wikipedia, WikiData and Natural Earth. Tools: QGIS and GIMP.
 
-![Map submission for Day 28 - The Earth is not flat](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2028%20-%20The%20Earth%20is%20not%20Flat.gif)
+![Map submission for Day 28 - The Earth is not flat](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/2021/Day%2028%20-%20The%20Earth%20is%20not%20Flat.gif)
 *[Original Tweet](https://twitter.com/fede_gaspari/status/1464934599012716552)*
 
 ### Day 29: NULL
@@ -240,7 +240,7 @@ Geo-animation of the tour gigs of the Formation World Tour by Beyoncé that took
 
 ---
 
-![Map submission for Day 29 - NULL](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/Day%2029%20-%20NULL.jpg)
+![Map submission for Day 29 - NULL](https://raw.githubusercontent.com/Tars4815/30DayMapChallenge/master/images/2021/Day%2029%20-%20NULL.jpg)
 *[Original Tweet](https://twitter.com/fede_gaspari/status/1464934599012716552)*
 
 ### Day 30: Metamapping day
